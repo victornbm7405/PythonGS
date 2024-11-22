@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nome": "Geladeira",
+        "tipo": "Eletrodom\u00e9stico",
+        "consumoEnergetico": 150.5,
+        "custoMensal": 120.0
+    },
+    {
+        "id": 2,
+        "nome": "Ar Condicionado",
+        "tipo": "Eletrodom\u00e9stico",
+        "consumoEnergetico": 200.0,
+        "custoMensal": 180.0
+    },
+    {
+        "id": 3,
+        "nome": "Microondas",
+        "tipo": "Eletrodom\u00e9stico",
+        "consumoEnergetico": 80.0,
+        "custoMensal": 50.0
+    },
+    {
+        "id": 4,
+        "nome": "Elevador",
+        "tipo": "Eletrodom\u00e9stico",
+        "consumoEnergetico": 150.5,
+        "custoMensal": 120.0
+    },
+    {
+        "id": 6,
+        "nome": "Ar Condicionado",
+        "tipo": "Eletrodom\u00e9stico",
+        "consumoEnergetico": 2000.0,
+        "custoMensal": 300.0
+    },
+    {
+        "id": 7,
+        "nome": "cadeira",
+        "tipo": "cadeira",
+        "consumoEnergetico": 100.0,
+        "custoMensal": 100000.0
+    }
+]
